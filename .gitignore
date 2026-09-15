@@ -1,0 +1,15 @@
+# 环境变量 —— 绝对不要提交，防止 API key 泄露
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 生成的报告（可选：如果想展示示例报告，可以去掉这行并提交一份样例）
+reports/
+
+# IDE
+.idea/
+.vscode/
