@@ -63,6 +63,7 @@ Python 3.10+ · DeepSeek API（OpenAI 兼容协议）· 标准库（urllib/ssl/x
 - **v2**：切换 arXiv API，遭遇并解决 SSL 证书、429 限流问题
 - **v3**：多数据源故障转移 + save_report 工具（多工具编排）
 - **v4**：多轮对话记忆 + 搜索缓存 + 流式输出
+- **v5**：LangGraph 重写编排层（v1.2.0）——对照手写版理解框架的抽象边界
 
 ## ⚠️ 已知局限
 
