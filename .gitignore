@@ -13,3 +13,6 @@ reports/
 # IDE
 .idea/
 .vscode/
+
+# 搜索缓存
+.search_cache.json
